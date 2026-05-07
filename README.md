@@ -18,6 +18,11 @@ It captures the architecture as code/doc scaffolding so the team can collaborate
 - ClawVault/security-gated execution concept
 - n8n automation workflow concept
 
+
+## Public safety notice
+
+This repository is a public research scaffold. It is **not financial advice**, not a live trading bot, and not a guarantee of profitability. Prediction markets are risky. Any future live execution requires separate human approval, paper-trading evidence, credential isolation, and hard external spend limits.
+
 ## Safety gate
 
 This repo must not trade real money until all of these are true:
