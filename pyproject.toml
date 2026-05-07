@@ -1,0 +1,16 @@
+[project]
+name = "quantagent-v1"
+version = "0.1.0"
+description = "Research-first dual-platform prediction market agent scaffold"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chromadb>=0.4.0",
+    "sentence-transformers>=2.2.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
