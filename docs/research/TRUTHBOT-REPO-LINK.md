@@ -10,4 +10,4 @@ Use this repo for the Wolfram/Gödel-specific TruthBot concept and simulation sc
 
 Use QuantAgent for the broader prediction-market research system and strategy framework.
 
-Do not merge live-trading code into either public repo without explicit safety review and Jeff approval.
+Do not merge live-trading code into either public repo without explicit safety review and user approval.

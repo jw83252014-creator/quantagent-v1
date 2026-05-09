@@ -31,7 +31,7 @@ This repo must not trade real money until all of these are true:
 2. Security review is complete.
 3. Spending limits are enforced outside the model.
 4. Exchange/API credentials are stored outside git.
-5. Jeff explicitly approves live execution.
+5. The user explicitly approves live execution.
 
 ## Quick start
 

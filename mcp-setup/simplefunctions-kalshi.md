@@ -2,4 +2,4 @@
 
 Status: PROPOSED
 
-Do not connect funded credentials until Jeff explicitly approves live execution.
+Do not connect funded credentials until the user explicitly approves live execution.

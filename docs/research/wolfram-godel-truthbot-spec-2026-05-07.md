@@ -102,7 +102,7 @@ For now:
 - Paper trading first.
 - No private keys in repo.
 - No claims of profitability.
-- No auto-trading without explicit Jeff approval and safety gates.
+- No auto-trading without explicit user approval and safety gates.
 
 ---
 
